@@ -4,7 +4,7 @@ This is a Portfolio for my notable data science projects!
 
 
 ## Overview
-Welcome to the **Portfolio**! This project demonstrates a comprehensive workflow for data analysis, including data cleaning, exploratory data analysis (EDA), model building, and visualization. The goal is to create clean, well-structured datasets, analyze the data to uncover insights, and build predictive models. Additionally, it features a **Streamlit** app for interactive data exploration and presentation.
+Welcome to the **Portfolio**! This project demonstrates a comprehensive workflow for data analysis, including data cleaning, exploratory data analysis (EDA), model building, and visualization. The goal is to create clean, well-structured datasets, analyze the data to uncover insights, and build predictive models. Additionally, it features a **Streamlit** app for interactive data exploration and presentation and a **Tidy Data** project.
 
 ---
 
