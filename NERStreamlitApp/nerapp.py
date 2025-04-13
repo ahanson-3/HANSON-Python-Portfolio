@@ -20,7 +20,7 @@ This is a demo app for performing Named Entity Recognition (NER) on the first ch
 """)
 
 # Upload text file
-uploaded_file = st.file_uploader("Upload Harry Potter Chapter 1 Text", type=["txt"])
+uploaded_file = st.file_uploader(NERStreamlitApp/Harry_Potter_Chapter1.txt, type=["txt"])
 
 if uploaded_file is not None:
     text = uploaded_file.read().decode("utf-8")
