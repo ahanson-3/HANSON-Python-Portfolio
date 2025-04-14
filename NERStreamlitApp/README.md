@@ -91,7 +91,6 @@ pip install -r requirements.txt
 * spaCy Named Entity Recognition (NER) Tutorial
 * EntityRuler Documentation
 
-"""
 # Harry Potter Named Entity Recognition (NER) App 📚⚡
 
 ## Project Overview
