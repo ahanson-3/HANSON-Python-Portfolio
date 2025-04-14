@@ -30,7 +30,7 @@ This app helps you understand how spaCy processes text and identifies these enti
 
 cd ner-harrypotter
 
-####Install required libraries:
+#### Install required libraries:
 
 *If you don't have the libraries already, install them using pip:*
 pip install -r requirements.txt
@@ -49,7 +49,6 @@ streamlit run app.py
 
 *By default, Streamlit runs on port 8501. Open your browser and go to:*
 http://localhost:8501
-
 
 
 ---
@@ -124,26 +123,20 @@ This app helps you understand how spaCy processes text and identifies these enti
 
 cd ner-harrypotter
 
-####Install required libraries:
+#### Install required libraries:
 
 *If you don't have the libraries already, install them using pip:*
 pip install -r requirements.txt
 
-####Download the spaCy model:
+#### Download the spaCy model:
 
 *We’re using the en_core_web_sm spaCy model. Run this command to download it:*
 python -m spacy download en_core_web_sm
 
-####Run the app:
+#### Run the app:
 
 *Start the Streamlit app with the following command:*
 streamlit run app.py
-
-####Visit the app in your browser:
-
-*By default, Streamlit runs on port 8501. Open your browser and go to:*
-http://localhost:8501
-
 
 
 ---
@@ -163,7 +156,7 @@ pip install -r requirements.txt
 
 ---
 
-##App Features ✨
+## App Features ✨
 
 **Named Entity Recognition:** The app processes the first chapter of Harry Potter and the Sorcerer’s Stone using spaCy and highlights named entities like characters, places, and dates.
 
@@ -186,14 +179,7 @@ pip install -r requirements.txt
 * spaCy Named Entity Recognition (NER) Tutorial
 * EntityRuler Documentation
 
-## Visual Examples 🎬
-
-Below is a screenshot of the app interface:
-
-![Website Screenshot 1](screenshot1.png)
-![Website Screenshot 2](screenshot2.png)
-
-Enjoy exploring the world of Named Entity Recognition with Harry Potter! ✨🧙‍♂️ 
+---
 
 ### Explanation of the README:
 
