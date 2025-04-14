@@ -1,6 +1,8 @@
 
 # Harry Potter Named Entity Recognition (NER) App 📚⚡
 
+🔗 Link to web app: ([https://hanson-python-portfolio-ev34yf2jhxjcpfcbuuyymc.streamlit.app/])
+
 ## Project Overview
 Welcome to the **Harry Potter Named Entity Recognition (NER) App**!  
 This app demonstrates how Named Entity Recognition (NER) works using the first chapter of *Harry Potter and the Sorcerer’s Stone*. NER is a task in Natural Language Processing (NLP) that identifies and classifies entities (like names, locations, dates) in text.
