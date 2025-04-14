@@ -26,31 +26,35 @@ This app helps you understand how spaCy processes text and identifies these enti
 
 1. **Clone this repository** to your local machine:
    ```bash
-   git clone https://github.com/yourusername/ner-harrypotter.git
+   git clone [https://github.com/ahanson-3/HANSON-Python-Portfolio/blob/c0e918a377f893f25675426c9f674ceeadade0b3/NERStreamlitApp/HarryPotter_NERapp.py]
+      ```
 
 #### Navigate to the project folder:
 
+   ```bash
 cd ner-harrypotter
+   ```
 
 #### Install required libraries:
 
 *If you don't have the libraries already, install them using pip:*
+   ```bash
 pip install -r requirements.txt
+   ```
 
 #### Download the spaCy model:
 
 *We’re using the en_core_web_sm spaCy model. Run this command to download it:*
+   ```bash
 python -m spacy download en_core_web_sm
+   ```
 
 #### Run the app:
 
 *Start the Streamlit app with the following command:*
+   ```bash
 streamlit run app.py
-
-#### Visit the app in your browser:
-
-*By default, Streamlit runs on port 8501. Open your browser and go to:*
-http://localhost:8501
+   ```
 
 
 ---
