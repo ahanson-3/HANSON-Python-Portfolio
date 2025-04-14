@@ -62,7 +62,7 @@ The movies follow the same storyline as the books, with the final book split int
 st.subheader("**Let's get started on analyzing chapter 1 of Sorcerer's Stone with NER!**")
 
 # Define the file path 
-hp_chapter1 = ('https://github.com/ahanson-3/HANSON-Python-Portfolio/blob/main/NERStreamlitApp/Harry_Potter_Chapter1.txt')
+hp_chapter1 = ('NERStreamlitApp/Harry_Potter_Chapter1.txt')
 
 # Read the file content
 with open(hp_chapter1, 'r', encoding='utf-8') as f:
