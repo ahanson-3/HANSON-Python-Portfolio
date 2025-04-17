@@ -11,11 +11,15 @@ st.image(
     )
 
 
-# Install the libraries if not already installed
+import subprocess
 import importlib.util
 
-# Load the spaCy model
-nlp = spacy.load("en_core_web_sm")
+# Check if the model is installed; if not, download it
+model_name = "en_core_web_sm"
+if importlib.util.find_spec(model_name) is None:
+    subprocess.run(["python", "-m", "spacy", "download", model_name])
+
+nlp = spacy.load(model_name)
 
 # Create the Streamlit UI components
 st.title("🧙📖 Harry Potter Named Entity Recognition")
