@@ -10,12 +10,19 @@ st.image(
         "https://imageservice.disco.peacocktv.com/uuid/e80c1e3c-2d93-3d94-8f5c-2c6e66e8cc09/TITLE_TREATMENT?language=eng&territory=US&proposition=NBCUOTT&version=8eb13517-eee5-354d-aa2f-9b77d006a2d5", width = 800
     )
 
+import subprocess
+import importlib.util
 
+# Here is my update since en_core_web_sm stopped working on streamlit 
+# Check if the model is installed, download it if not
+model_name = "en_core_web_sm"
+if importlib.util.find_spec(model_name) is None:
+    subprocess.run(["python", "-m", "spacy", "download", model_name])
 
 # Install the libraries if not already installed
 
 # Load the spaCy model
-nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load("model_name")
 
 # Create the Streamlit UI components
 st.title("🧙📖 Harry Potter Named Entity Recognition")
