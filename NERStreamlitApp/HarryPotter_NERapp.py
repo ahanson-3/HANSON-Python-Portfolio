@@ -10,8 +10,6 @@ st.image(
         "https://imageservice.disco.peacocktv.com/uuid/e80c1e3c-2d93-3d94-8f5c-2c6e66e8cc09/TITLE_TREATMENT?language=eng&territory=US&proposition=NBCUOTT&version=8eb13517-eee5-354d-aa2f-9b77d006a2d5", width = 800
     )
 
-
-import spacy
 import importlib.util
 import subprocess
 
