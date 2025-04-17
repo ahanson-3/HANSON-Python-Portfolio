@@ -22,7 +22,7 @@ st.title("🧙📖 Harry Potter Named Entity Recognition")
 
 st.markdown("""
 *This is a streamlit app to teach you about Named Entity Recognition (NER) through using the first chapter of Harry Potter using spaCy.*  
-            **Afterwards you can scroll to the bottom to try it with your own custom text!**
+**Afterwards you can scroll to the bottom to try it with your own custom text!**
 
 # **What is NER?**
             
