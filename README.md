@@ -14,7 +14,7 @@ Welcome to the **Portfolio**! This project demonstrates a comprehensive workflow
 
 - 📚 **`Harry Potter Named Entity Recognition (NER) App`**
   
-🔗 Link to project: ([[https://github.com/ahanson-3/HANSON-Python-Portfolio/tree/5ecce32fc09b15f40ab4b33d577e1cdafca938db/TidyData-Project])
+🔗 Link to project: ([[https://github.com/ahanson-3/HANSON-Python-Portfolio/tree/main/NERStreamlitApp])
 
 🔗 Link to web app: ([https://hanson-python-portfolio-ev34yf2jhxjcpfcbuuyymc.streamlit.app/])
 
