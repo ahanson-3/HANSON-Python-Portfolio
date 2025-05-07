@@ -30,7 +30,7 @@ Uploaded files must be Excel (`.xlsx`) format with these columns:
 You can deploy this app using [Streamlit Community Cloud](https://streamlit.io/cloud).  
 Make sure your folder contains:
 - `StreamlitAppFinal.py` (or `app.py`)
-- `NBAvsWNBA.xlsx`
+- `NBAvsWNBA1.xlsx`
 - `README.md`
 - `requirements.txt` (include `pandas`, `matplotlib`, `seaborn`, `streamlit`, `openpyxl`, and `wikipedia`)
 
