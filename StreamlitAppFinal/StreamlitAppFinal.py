@@ -183,7 +183,7 @@ with comp1:
     st.write(f"**Salary:** ${female_info['Salary']:,.2f}")
     image_url = get_wikipedia_image_url(female_info['Player'])
     if image_url:
-        st.image(image_url, caption=female_info['Player'], use_column_width=True)
+        st.image(image_url, caption=female_info['Player'], use_container_width=True)
     else:
         st.info("No image found on Wikipedia.")
 
@@ -192,7 +192,7 @@ with comp2:
     st.write(f"**Salary:** ${male_info['Salary']:,.2f}")
     image_url = get_wikipedia_image_url(male_info['Player'])
     if image_url:
-        st.image(image_url, caption=male_info['Player'], use_column_width=True)
+        st.image(image_url, caption=male_info['Player'], use_container_width=True)
     else:
         st.info("No image found on Wikipedia.")
 
