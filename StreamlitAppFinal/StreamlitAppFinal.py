@@ -131,7 +131,7 @@ min_salary, max_salary = st.slider("Select salary range",
                                    max_value=int(data['Salary'].max()), 
                                    value=(int(data['Salary'].min()), int(data['Salary'].max())))
 filtered_data = data[(data['Salary'] >= min_salary) & (data['Salary'] <= max_salary)]
-st.write(f"Displaying players with salaries between ${min_salary:,.2f} and ${max_salary:,.2f}")
+st.write(f"Displaying players with salaries between /${min_salary:,.2f} and \${max_salary:,.2f}")
 st.dataframe(filtered_data)
 
 # Allow download of processed data
