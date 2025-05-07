@@ -13,7 +13,7 @@ Welcome to the **Portfolio**! This project demonstrates a comprehensive workflow
 - 📄 **`README.md`**: Provides an overview of the project, its structure, and setup instructions.
 
 - 🏀 **`NBA vs WNBA Salary Analysis App`**
-- 
+  
 🔗 Link to project: ([(https://github.com/ahanson-3/HANSON-Python-Portfolio/tree/main/StreamlitAppFinal)])
 
 🔗 Link to web app: ([https://hanson-python-portfolio-pkcafb3sbrmbhdvpapxk9v.streamlit.app/])
