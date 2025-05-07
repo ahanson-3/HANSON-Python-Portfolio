@@ -28,7 +28,7 @@ This interactive Streamlit app explores gender pay disparity in professional bas
 💬 Highlights gender equity issues in sports
 This project demonstrates my skills in data visualization, web app development, and communicating social insights through data.
 
-# Skills: 
+### Skills: 
 Python scripting,
 Streamlit app development,
 Pandas for data manipulation,
@@ -65,7 +65,7 @@ This project highlights my growing skill set in Natural Language Processing, int
 2. Understanding of NLP concepts like tokenization and named entity recognition
 3. Experience building interactive, educational tools that explain technical concepts to users
 
-# Skills:
+### Skills:
 Python programming,
 Natural Language Processing (NLP) with spaCy,
 Named Entity Recognition (NER),
@@ -87,7 +87,7 @@ Data Wrangling with Pandas – Cleaning, reshaping, and handling missing data in
     3. Aggregation & Pivot Tables – Summarizing data efficiently to derive meaningful conclusions.
     4. Reproducibility & Documentation – Writing clean, well-documented code and explanations, making the project accessible to others.
 
-# Skills:
+### Skills:
 Data cleaning and preprocessing,
 Tidy data transformation principles,
 Python programming,
@@ -104,7 +104,7 @@ Identifying trends and insights through visual analytics
 - 🌐 **`basic_streamlit-app`**: A basic **Streamlit** app that allows for interactive data visualization and exploration. This app focuses on Palmer Penguin data and allows you to filter to explore different results.
     - Link to project:  ([https://github.com/ahanson-3/HANSON-Python-Portfolio/tree/5ecce32fc09b15f40ab4b33d577e1cdafca938db/basic_streamlit-app])
 
-# Skills:
+### Skills:
 Streamlit app development,
 Interactive UI design with Streamlit widgets,
 Data filtering with dropdowns and sliders,
