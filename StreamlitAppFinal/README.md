@@ -4,7 +4,8 @@
 
 This interactive Streamlit app explores the **gender pay gap** in professional basketball using salary data from **NBA** and **WNBA** players. It allows users to visualize salary distributions, search for specific athletes, upload their own datasets, and compare top male and female earners.
 
-## 🔗 Link: ["https://hanson-python-portfolio-pkcafb3sbrmbhdvpapxk9v.streamlit.app/"]
+## 🔗 Link: 
+["https://hanson-python-portfolio-pkcafb3sbrmbhdvpapxk9v.streamlit.app/"]
 
 ## 🌟 Features
 
