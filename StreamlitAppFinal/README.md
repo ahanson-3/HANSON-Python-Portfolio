@@ -49,7 +49,7 @@ streamlit run StreamlitAppFinal.py
 Below is an example of the first visualization and the summary statistics that can either be the default dataset or your own:
 <img width="1388" alt="Screenshot 2025-05-07 at 12 53 24 AM" src="https://github.com/user-attachments/assets/bcc67f9f-b941-451a-8a8a-269defae2cc8" />
 
-Below displays how you can select different female and male players to compare salaries and alongside their visuals sourced from Wikapedia
+Below displays how you can select different female and male players to compare salaries and alongside their visuals sourced from Wikapedia:
 <img width="1403" alt="Screenshot 2025-05-07 at 12 52 49 AM" src="https://github.com/user-attachments/assets/d58a95c3-094e-4694-b333-a3c0a9baa195" />
 
 
