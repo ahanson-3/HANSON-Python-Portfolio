@@ -12,6 +12,22 @@ Welcome to the **Portfolio**! This project demonstrates a comprehensive workflow
 
 - 📄 **`README.md`**: Provides an overview of the project, its structure, and setup instructions.
 
+- 🏀 **`NBA vs WNBA Salary Analysis App`**
+- 
+🔗 Link to project: ([(https://github.com/ahanson-3/HANSON-Python-Portfolio/tree/main/StreamlitAppFinal)])
+
+🔗 Link to web app: ([https://hanson-python-portfolio-pkcafb3sbrmbhdvpapxk9v.streamlit.app/])
+
+This interactive Streamlit app explores gender pay disparity in professional basketball. Users can visualize NBA vs WNBA salary distributions, search and compare players, and upload their own datasets for analysis.
+
+Key Features:
+
+📊 Salary comparison with boxplots and histograms
+🔍 Player lookup with Wikipedia integration
+📥 Upload custom Excel files for analysis
+💬 Highlights gender equity issues in sports
+This project demonstrates my skills in data visualization, web app development, and communicating social insights through data.
+
 - 📚 **`Harry Potter Named Entity Recognition (NER) App`**
   
 🔗 Link to project: ([[https://github.com/ahanson-3/HANSON-Python-Portfolio/tree/main/NERStreamlitApp])
